@@ -1,4 +1,4 @@
-<!-- basically where the sign in button is  -->
+<!-- basically where the sign in button is located-->
 import { SignIn } from "@clerk/nextjs";
 
 export default function Page() {
